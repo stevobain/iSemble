@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New section 1" section_id="e988388883095210ffcebfc6feaad36f" sys_domain="global" table="x_1394569_isemble_reservation" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>purpose</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-29 21:48:35</sys_created_on>
+            <sys_id>2d88388883095210ffcebfc6feaad3ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1394569_isemble_reservation" sys_domain="global" view="Default view">e988388883095210ffcebfc6feaad36f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-29 21:48:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New section 1</caption>
+            <header>false</header>
+            <name>x_1394569_isemble_reservation</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-29 21:48:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e988388883095210ffcebfc6feaad36f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1394569_isemble_reservation</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+            <sys_update_name>sys_ui_section_e988388883095210ffcebfc6feaad36f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-29 21:48:35</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</application>
+        <file_path/>
+        <instance_id>abd8b005ebc7ca98e9bbfddacad0cd59</instance_id>
+        <instance_name>dev276429</instance_name>
+        <name>sys_ui_section_e988388883095210ffcebfc6feaad36f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New section 1" section_id="e988388883095210ffcebfc6feaad36f" sys_domain="global" table="x_1394569_isemble_reservation" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>purpose</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-29 21:48:35</sys_created_on><sys_id>2d88388883095210ffcebfc6feaad3ca</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_1394569_isemble_reservation" sys_domain="global" view="Default view">e988388883095210ffcebfc6feaad36f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-29 21:48:35</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New section 1</caption><header>false</header><name>x_1394569_isemble_reservation</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-29 21:48:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e988388883095210ffcebfc6feaad36f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1394569_isemble_reservation</sys_name><sys_overrides/><sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package><sys_policy/><sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope><sys_update_name>sys_ui_section_e988388883095210ffcebfc6feaad36f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-29 21:48:35</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1212241572</payload_hash>
+        <record_name>Reservation</record_name>
+        <reverted_from/>
+        <source>b75b608883c55210ffcebfc6feaad367</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-29 21:48:35</sys_created_on>
+        <sys_id>a988388883095210ffcebfc6feaad3cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1923fc1c1e00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-29 21:48:35</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>2188388816095210990845b49fb1ebcc</update_guid>
+        <update_guid_history>2188388816095210990845b49fb1ebcc:-1212241572</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-29 21:50:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>0e2c520f6bac403384cde29c6cd39b39</sys_id>
+        <sys_metadata>e988388883095210ffcebfc6feaad36f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New section 1</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_parent display_value="Reservation">03dc600c83c55210ffcebfc6feaad3bd</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_scope_delete display_value="">f058eb2433d3418e9f3068b4f03fe304</sys_scope_delete>
+        <sys_update_name>sys_ui_section_e988388883095210ffcebfc6feaad36f</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_e988388883095210ffcebfc6feaad36f">a988388883095210ffcebfc6feaad3cc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-29 21:50:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

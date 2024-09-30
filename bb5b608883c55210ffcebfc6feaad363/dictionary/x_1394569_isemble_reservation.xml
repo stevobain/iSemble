@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="03dc600c83c55210ffcebfc6feaad3bd" label="Reservation" max_length="40" name="x_1394569_isemble_reservation" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element choice="1" label="Reservation Status" max_length="40" name="reservation_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Canceled" sequence="2" value="canceled"/>
+                <element inactive_on_update="false" label="Pending" sequence="0" value="pending"/>
+                <element inactive_on_update="false" label="Confirmed" sequence="1" value="confirmed"/>
+            </choice>
+        </element>
+        <element label="Reserved By" max_length="32" name="reserved_by" reference="sys_user" type="reference"/>
+        <element label="Room" max_length="32" name="room" reference="x_1394569_isemble_room" type="reference"/>
+        <element label="End Time" max_length="40" name="end_time" type="glide_date_time"/>
+        <element label="Purpose" max_length="400" name="purpose" type="string"/>
+        <element label="Start Time" max_length="40" name="start_time" type="glide_date_time"/>
+        <index name="index">
+            <element name="reserved_by"/>
+        </index>
+        <index name="index2">
+            <element name="room"/>
+        </index>
+    </element>
+</database>

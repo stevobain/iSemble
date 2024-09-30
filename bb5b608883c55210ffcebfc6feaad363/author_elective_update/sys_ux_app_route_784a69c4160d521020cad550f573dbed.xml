@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="Custom Portal App Config">604a69c4830d5210ffcebfc6feaad392</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Settings Page</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>settings</route_type>
+        <screen_type display_value="Settings Page">f04a69c49c0d521044db11181dde72ed</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-09-30 01:25:54</sys_created_on>
+        <sys_id>784a69c4160d521020cad550f573dbed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Settings Page</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sys_ux_app_route_784a69c4160d521020cad550f573dbed</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-09-30 01:25:54</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</application>
+        <file_path/>
+        <instance_id>abd8b005ebc7ca98e9bbfddacad0cd59</instance_id>
+        <instance_name>dev276429</instance_name>
+        <name>sys_ux_app_route_784a69c4160d521020cad550f573dbed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="Custom Portal App Config">604a69c4830d5210ffcebfc6feaad392</app_config><description/><extension_point/><fields/><icon/><name>Settings Page</name><optional_parameters/><order>0</order><parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent><parent_macroponent_composition_element_id/><route_type>settings</route_type><screen_type display_value="Settings Page">f04a69c49c0d521044db11181dde72ed</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-09-30 01:25:54</sys_created_on><sys_id>784a69c4160d521020cad550f573dbed</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Settings Page</sys_name><sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package><sys_policy/><sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope><sys_update_name>sys_ux_app_route_784a69c4160d521020cad550f573dbed</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-09-30 01:25:54</sys_updated_on></sys_ux_app_route></record_update>]]></payload>
+        <payload_hash>1295204133</payload_hash>
+        <record_name>Settings Page</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 01:39:24</sys_created_on>
+        <sys_id>a25d2dc8830d5210ffcebfc6feaad3b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1924095127a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 01:39:24</sys_updated_on>
+        <type>UX App Route</type>
+        <update_guid>625d2dc8200d521043e91a4399e0efb1</update_guid>
+        <update_guid_history>625d2dc8200d521043e91a4399e0efb1:1295204133</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-09-30 01:39:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>017d03b40e25432a862aec5bfb57f164</sys_id>
+        <sys_metadata>784a69c4160d521020cad550f573dbed</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Settings Page</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_scope_delete display_value="">f058eb2433d3418e9f3068b4f03fe304</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_784a69c4160d521020cad550f573dbed</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_784a69c4160d521020cad550f573dbed">a25d2dc8830d5210ffcebfc6feaad3b1</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-09-30 01:39:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

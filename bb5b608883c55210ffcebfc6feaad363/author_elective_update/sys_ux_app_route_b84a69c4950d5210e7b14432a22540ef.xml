@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="Custom Portal App Config">604a69c4830d5210ffcebfc6feaad392</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Task Approved</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>task_approved</route_type>
+        <screen_type display_value="Task Approved">344a69c41f0d52104997f8e27162ceef</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-09-30 01:25:56</sys_created_on>
+        <sys_id>b84a69c4950d5210e7b14432a22540ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task Approved</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sys_ux_app_route_b84a69c4950d5210e7b14432a22540ef</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-09-30 01:25:56</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</application>
+        <file_path/>
+        <instance_id>abd8b005ebc7ca98e9bbfddacad0cd59</instance_id>
+        <instance_name>dev276429</instance_name>
+        <name>sys_ux_app_route_b84a69c4950d5210e7b14432a22540ef</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="Custom Portal App Config">604a69c4830d5210ffcebfc6feaad392</app_config><description/><extension_point/><fields/><icon/><name>Task Approved</name><optional_parameters/><order>0</order><parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent><parent_macroponent_composition_element_id/><route_type>task_approved</route_type><screen_type display_value="Task Approved">344a69c41f0d52104997f8e27162ceef</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-09-30 01:25:56</sys_created_on><sys_id>b84a69c4950d5210e7b14432a22540ef</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Task Approved</sys_name><sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package><sys_policy/><sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope><sys_update_name>sys_ux_app_route_b84a69c4950d5210e7b14432a22540ef</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-09-30 01:25:56</sys_updated_on></sys_ux_app_route></record_update>]]></payload>
+        <payload_hash>-819793793</payload_hash>
+        <record_name>Task Approved</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 01:39:19</sys_created_on>
+        <sys_id>2d5de548830d5210ffcebfc6feaad31e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1924094ff830000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 01:39:19</sys_updated_on>
+        <type>UX App Route</type>
+        <update_guid>e95de548b20d5210876175f4d74a8c1e</update_guid>
+        <update_guid_history>e95de548b20d5210876175f4d74a8c1e:-819793793</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-09-30 01:39:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>accd956f1f9b4408b860d36363693224</sys_id>
+        <sys_metadata>b84a69c4950d5210e7b14432a22540ef</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task Approved</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_scope_delete display_value="">f058eb2433d3418e9f3068b4f03fe304</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_b84a69c4950d5210e7b14432a22540ef</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_b84a69c4950d5210e7b14432a22540ef">2d5de548830d5210ffcebfc6feaad31e</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-09-30 01:39:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

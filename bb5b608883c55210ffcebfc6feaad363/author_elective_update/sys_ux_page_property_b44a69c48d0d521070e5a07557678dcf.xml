@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_footer</name>
+        <page display_value="iSemble Portal">6c4a69c4830d5210ffcebfc6feaad391</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-09-30 01:25:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b44a69c48d0d521070e5a07557678dcf</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sys_ux_page_property_b44a69c48d0d521070e5a07557678dcf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 01:31:31</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1394569_isemble.6c4a69c4830d5210ffcebfc6feaad391.root.chrome_footer</unique_name>
+        <value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{"enable_logo":false,"enable_address":false,"enable_linkset_group":false,"max_linkset_count":0},"enable_footer_bar":true,"footer_bar_options":{"enable_links":true,"max_links_count":5,"enable_social_links":false,"max_social_links_count":7,"social_links":[],"enable_copyright_text":true,"copyright_text":"© 2020 Company Inc. All rights reserved."}}}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=b44a69c48d0d521070e5a07557678dcf"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</application>
+        <file_path/>
+        <instance_id>abd8b005ebc7ca98e9bbfddacad0cd59</instance_id>
+        <instance_name>dev276429</instance_name>
+        <name>sys_ux_page_property_b44a69c48d0d521070e5a07557678dcf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_footer</name><page display_value="iSemble Portal">6c4a69c4830d5210ffcebfc6feaad391</page><required_translations>[ ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-09-30 01:25:56</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b44a69c48d0d521070e5a07557678dcf</sys_id><sys_mod_count>1</sys_mod_count><sys_name>chrome_footer</sys_name><sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package><sys_policy/><sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope><sys_update_name>sys_ux_page_property_b44a69c48d0d521070e5a07557678dcf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-30 01:31:31</sys_updated_on><type>json</type><unique_name>x_1394569_isemble.6c4a69c4830d5210ffcebfc6feaad391.root.chrome_footer</unique_name><value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{"enable_logo":false,"enable_address":false,"enable_linkset_group":false,"max_linkset_count":0},"enable_footer_bar":true,"footer_bar_options":{"enable_links":true,"max_links_count":5,"enable_social_links":false,"max_social_links_count":7,"social_links":[],"enable_copyright_text":true,"copyright_text":"© 2020 Company Inc. All rights reserved."}}}</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=b44a69c48d0d521070e5a07557678dcf"/></record_update>]]></payload>
+        <payload_hash>-696685095</payload_hash>
+        <record_name>chrome_footer</record_name>
+        <reverted_from/>
+        <source>b75b608883c55210ffcebfc6feaad367</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 01:31:32</sys_created_on>
+        <sys_id>138b6948830d5210ffcebfc6feaad368</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192408ddd790000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 01:31:32</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>d78b6948790d52108566862dfea66767</update_guid>
+        <update_guid_history>d78b6948790d52108566862dfea66767:-696685095,df8b69485d0d52101d98143b2bafe365:1254212703</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 01:41:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>565c0279fdf443c8ba92fc833dbc6c10</sys_id>
+        <sys_metadata>b44a69c48d0d521070e5a07557678dcf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_scope_delete display_value="">f058eb2433d3418e9f3068b4f03fe304</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_b44a69c48d0d521070e5a07557678dcf</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_b44a69c48d0d521070e5a07557678dcf">138b6948830d5210ffcebfc6feaad368</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 01:41:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

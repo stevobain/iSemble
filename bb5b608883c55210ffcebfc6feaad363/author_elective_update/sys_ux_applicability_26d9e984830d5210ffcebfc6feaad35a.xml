@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="DELETE">
+        <active>true</active>
+        <api_name>x_1394569_isemble.Audience for app isemble-workspace</api_name>
+        <description/>
+        <name>Audience for app isemble-workspace</name>
+        <role_names/>
+        <roles>846b608883c55210ffcebfc6feaad36c,846b608883c55210ffcebfc6feaad38a</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 01:24:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>26d9e984830d5210ffcebfc6feaad35a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app isemble-workspace</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sys_ux_applicability_26d9e984830d5210ffcebfc6feaad35a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 01:24:06</sys_updated_on>
+    </sys_ux_applicability>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</application>
+        <file_path/>
+        <instance_id>abd8b005ebc7ca98e9bbfddacad0cd59</instance_id>
+        <instance_name>dev276429</instance_name>
+        <name>sys_ux_applicability_26d9e984830d5210ffcebfc6feaad35a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability"><sys_ux_applicability action="INSERT_OR_UPDATE"><active>true</active><api_name>x_1394569_isemble.Audience for app isemble-workspace</api_name><description/><name>Audience for app isemble-workspace</name><role_names/><roles>846b608883c55210ffcebfc6feaad36c,846b608883c55210ffcebfc6feaad38a</roles><sys_class_name>sys_ux_applicability</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-30 01:24:06</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>26d9e984830d5210ffcebfc6feaad35a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Audience for app isemble-workspace</sys_name><sys_overrides/><sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package><sys_policy/><sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope><sys_update_name>sys_ux_applicability_26d9e984830d5210ffcebfc6feaad35a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-30 01:24:06</sys_updated_on></sys_ux_applicability></record_update>]]></payload>
+        <payload_hash>-2095212200</payload_hash>
+        <record_name>Audience for app isemble-workspace</record_name>
+        <reverted_from/>
+        <source>b75b608883c55210ffcebfc6feaad367</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 01:24:06</sys_created_on>
+        <sys_id>6ed9e984830d5210ffcebfc6feaad36a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1924087118a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 01:24:06</sys_updated_on>
+        <type>Audience</type>
+        <update_guid>22d9e984ab0d52107d1e84ba3700466a</update_guid>
+        <update_guid_history>22d9e984ab0d52107d1e84ba3700466a:-2095212200</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 01:28:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_applicability">sys_ux_applicability</sys_db_object>
+        <sys_id>289472074ff445a2aba8a65e62b6cee4</sys_id>
+        <sys_metadata>26d9e984830d5210ffcebfc6feaad35a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app isemble-workspace</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_scope_delete display_value="">f058eb2433d3418e9f3068b4f03fe304</sys_scope_delete>
+        <sys_update_name>sys_ux_applicability_26d9e984830d5210ffcebfc6feaad35a</sys_update_name>
+        <sys_update_version display_value="sys_ux_applicability_26d9e984830d5210ffcebfc6feaad35a">6ed9e984830d5210ffcebfc6feaad36a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 01:28:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

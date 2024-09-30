@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="DELETE">
+        <active>true</active>
+        <applicability display_value="Audience for app isemble-workspace">26d9e984830d5210ffcebfc6feaad35a</applicability>
+        <list/>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 01:24:07</sys_created_on>
+        <sys_id>b6d9e984830d5210ffcebfc6feaad3aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_b6d9e984830d5210ffcebfc6feaad3aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 01:24:07</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</application>
+        <file_path/>
+        <instance_id>abd8b005ebc7ca98e9bbfddacad0cd59</instance_id>
+        <instance_name>dev276429</instance_name>
+        <name>sys_ux_applicability_m2m_list_b6d9e984830d5210ffcebfc6feaad3aa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list"><sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE"><active>true</active><applicability display_value="Audience for app isemble-workspace">26d9e984830d5210ffcebfc6feaad35a</applicability><list/><order>100</order><sys_class_name>sys_ux_applicability_m2m_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-30 01:24:07</sys_created_on><sys_id>b6d9e984830d5210ffcebfc6feaad3aa</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package><sys_policy/><sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope><sys_update_name>sys_ux_applicability_m2m_list_b6d9e984830d5210ffcebfc6feaad3aa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-30 01:24:07</sys_updated_on></sys_ux_applicability_m2m_list></record_update>]]></payload>
+        <payload_hash>1197287369</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>b75b608883c55210ffcebfc6feaad367</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 01:28:31</sys_created_on>
+        <sys_id>9bda6908830d5210ffcebfc6feaad340</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192408b1d730000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 01:28:31</sys_updated_on>
+        <type>List Applicability</type>
+        <update_guid>76d9e9842e0d5210e741a735393b98ab</update_guid>
+        <update_guid_history>76d9e9842e0d5210e741a735393b98ab:1765149212,76d9e9842e0d5210e741a735393b98ab:1765149212</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 01:28:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_applicability_m2m_list">sys_ux_applicability_m2m_list</sys_db_object>
+        <sys_id>0703293ab6da4dfa80ad092688e54b79</sys_id>
+        <sys_metadata>b6d9e984830d5210ffcebfc6feaad3aa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_scope_delete display_value="">f058eb2433d3418e9f3068b4f03fe304</sys_scope_delete>
+        <sys_update_name>sys_ux_applicability_m2m_list_b6d9e984830d5210ffcebfc6feaad3aa</sys_update_name>
+        <sys_update_version display_value="sys_ux_applicability_m2m_list_b6d9e984830d5210ffcebfc6feaad3aa">9bda6908830d5210ffcebfc6feaad340</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 01:28:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
