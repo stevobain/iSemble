@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="362ca0c883c55210ffcebfc6feaad302" label="Room" max_length="40" name="x_1394569_isemble_room" text_index="true" type="collection">
-        <element label="Equipment" max_length="40" name="equipment" type="string"/>
-        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
         <element label="Capacity" max_length="40" name="capacity" type="integer"/>
+        <element label="Equipment" max_length="40" name="equipment" reference="x_1394569_isemble_equipment" type="reference"/>
         <element display="true" label="Room Name" max_length="40" name="room_name" type="string"/>
         <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
         <element choice="1" label="Room Status" max_length="40" name="room_status" type="choice">
             <choice>
+                <element inactive_on_update="false" label="Booked" sequence="1" value="booked"/>
                 <element inactive_on_update="false" label="Under maintenance" sequence="2" value="under_maintenance"/>
                 <element inactive_on_update="false" label="Available" sequence="0" value="available"/>
-                <element inactive_on_update="false" label="Booked" sequence="1" value="booked"/>
             </choice>
         </element>
         <index name="index">

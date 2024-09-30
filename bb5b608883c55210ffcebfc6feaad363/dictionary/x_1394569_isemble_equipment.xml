@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="60a46918830912108c5d91d6feaad37f" label="Equipment" max_length="40" name="x_1394569_isemble_equipment" type="collection">
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Visual" sequence="2" value="visual"/>
+                <element inactive_on_update="false" label="Accessibility" sequence="3" value="accessibility"/>
+                <element inactive_on_update="false" label="Audio" sequence="1" value="audio"/>
+                <element inactive_on_update="false" label="Peripheral" sequence="0" value="peripheral"/>
+            </choice>
+        </element>
+        <element display="true" label="Equipment Name" max_length="40" name="equipment_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
