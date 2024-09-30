@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="equipment" label="Equipment" language="en" table="x_1394569_isemble_room">
+    <sys_documentation element="approver" label="Approver" language="en" table="x_1394569_isemble_reservation">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>equipment</element>
+            <element>approver</element>
             <help/>
             <hint/>
-            <label>Equipment</label>
+            <label>Approver</label>
             <language>en</language>
-            <name>x_1394569_isemble_room</name>
+            <name>x_1394569_isemble_reservation</name>
             <plural/>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-09-29 21:36:56</sys_created_on>
+            <sys_created_on>2024-09-30 19:18:26</sys_created_on>
             <sys_mod_count>5</sys_mod_count>
-            <sys_name>Equipment</sys_name>
+            <sys_name>Approver</sys_name>
             <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
             <sys_policy/>
             <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
-            <sys_update_name>sys_documentation_x_1394569_isemble_room_equipment_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_1394569_isemble_reservation_approver_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-09-30 20:18:09</sys_updated_on>
+            <sys_updated_on>2024-09-30 19:21:53</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="iSemble">07273d08834d5210ffcebfc6feaad370</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Administration</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>500</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1394569_isemble.admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 19:53:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c077a51c830912108c5d91d6feaad3bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Administration</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sys_app_module_c077a51c830912108c5d91d6feaad3bd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 19:53:22</sys_updated_on>
+        <timeline_page/>
+        <title>Administration</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</application>
+        <file_path/>
+        <instance_id>1ac42f903b378658677f04e0b5e45ae2</instance_id>
+        <instance_name>dev284320</instance_name>
+        <name>sys_app_module_c077a51c830912108c5d91d6feaad3bd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="iSemble">07273d08834d5210ffcebfc6feaad370</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>Administration</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>500</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_1394569_isemble.admin</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-30 19:53:22</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c077a51c830912108c5d91d6feaad3bd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Administration</sys_name><sys_overrides/><sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package><sys_policy/><sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope><sys_update_name>sys_app_module_c077a51c830912108c5d91d6feaad3bd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-30 19:53:22</sys_updated_on><timeline_page/><title>Administration</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>365630607</payload_hash>
+        <record_name>Administration</record_name>
+        <reverted_from/>
+        <source>0ca36054834112108c5d91d6feaad39a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 19:53:22</sys_created_on>
+        <sys_id>e7b7a11c830912108c5d91d6feaad36c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192447ea0cf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 19:53:22</sys_updated_on>
+        <type>Module</type>
+        <update_guid>ebb7a11c62091210960634248a75fc6b</update_guid>
+        <update_guid_history>ebb7a11c62091210960634248a75fc6b:365630607</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Administration">8cb8219c830912108c5d91d6feaad3f5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 19:57:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>2a33572705d7405081c170c2ca83d7a4</sys_id>
+        <sys_metadata>c077a51c830912108c5d91d6feaad3bd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Administration</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_scope_delete display_value="">f058eb2433d3418e9f3068b4f03fe304</sys_scope_delete>
+        <sys_update_name>sys_app_module_c077a51c830912108c5d91d6feaad3bd</sys_update_name>
+        <sys_update_version display_value="sys_app_module_c077a51c830912108c5d91d6feaad3bd">e7b7a11c830912108c5d91d6feaad36c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 19:57:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
