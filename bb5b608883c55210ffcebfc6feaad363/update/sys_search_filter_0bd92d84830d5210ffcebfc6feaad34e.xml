@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Reservation">0fd92d84830d5210ffcebfc6feaad332</ais_search_source>
+        <label>Reservation</label>
+        <name>Reservation</name>
+        <order>100</order>
+        <search_context_config display_value="iSemble Workspace AI Search Configuration">a9d9a984910d5210a12d70e913e60f46</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 01:24:08</sys_created_on>
+        <sys_id>0bd92d84830d5210ffcebfc6feaad34e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reservation</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sys_search_filter_0bd92d84830d5210ffcebfc6feaad34e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 01:24:08</sys_updated_on>
+    </sys_search_filter>
+</record_update>

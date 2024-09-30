@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="Custom Portal App Config">604a69c4830d5210ffcebfc6feaad392</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Task rejected</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>task_rejected</route_type>
+        <screen_type display_value="Task rejected">f84a69c4290d521064a49b59d0db9af1</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-09-30 01:25:57</sys_created_on>
+        <sys_id>f04a69c4fc0d52107a8c6f97acd65bf0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task rejected</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sys_ux_app_route_f04a69c4fc0d52107a8c6f97acd65bf0</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-09-30 01:25:57</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</application>
+        <file_path/>
+        <instance_id>abd8b005ebc7ca98e9bbfddacad0cd59</instance_id>
+        <instance_name>dev276429</instance_name>
+        <name>sys_ux_app_route_f04a69c4fc0d52107a8c6f97acd65bf0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="Custom Portal App Config">604a69c4830d5210ffcebfc6feaad392</app_config><description/><extension_point/><fields/><icon/><name>Task rejected</name><optional_parameters/><order>0</order><parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent><parent_macroponent_composition_element_id/><route_type>task_rejected</route_type><screen_type display_value="Task rejected">f84a69c4290d521064a49b59d0db9af1</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-09-30 01:25:57</sys_created_on><sys_id>f04a69c4fc0d52107a8c6f97acd65bf0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Task rejected</sys_name><sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package><sys_policy/><sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope><sys_update_name>sys_ux_app_route_f04a69c4fc0d52107a8c6f97acd65bf0</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-09-30 01:25:57</sys_updated_on></sys_ux_app_route></record_update>]]></payload>
+        <payload_hash>-21421026</payload_hash>
+        <record_name>Task rejected</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 01:39:13</sys_created_on>
+        <sys_id>805ded08830d5210ffcebfc6feaad372</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1924094e97c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 01:39:13</sys_updated_on>
+        <type>UX App Route</type>
+        <update_guid>405ded08450d52106899e600525c2e72</update_guid>
+        <update_guid_history>405ded08450d52106899e600525c2e72:-21421026</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-09-30 01:39:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>265bcc7ce16d483caab8e7bdfb6d5924</sys_id>
+        <sys_metadata>f04a69c4fc0d52107a8c6f97acd65bf0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task rejected</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_scope_delete display_value="">f058eb2433d3418e9f3068b4f03fe304</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_f04a69c4fc0d52107a8c6f97acd65bf0</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_f04a69c4fc0d52107a8c6f97acd65bf0">805ded08830d5210ffcebfc6feaad372</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-09-30 01:39:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

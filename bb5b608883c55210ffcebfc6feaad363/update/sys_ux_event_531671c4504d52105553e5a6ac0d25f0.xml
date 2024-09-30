@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>GLIDE_FORM_1_SET_VALUE_RELAY_1b16b1c48b4d52103a5876eb5afd7604</event_name>
+        <explicit_api_name/>
+        <interfaces/>
+        <label>Glide Form 1 SET_VALUE Relay (Tasks Default)</label>
+        <props>[{"name":"fieldName","fieldType":"string","label":"Field Name"},{"name":"value","fieldType":"string","label":"Value"},{"name":"displayValue","fieldType":"string","label":"Display Value"}]</props>
+        <required_translations/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-09-30 02:17:44</sys_created_on>
+        <sys_id>531671c4504d52105553e5a6ac0d25f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Glide Form 1 SET_VALUE Relay (Tasks Default)</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sys_ux_event_531671c4504d52105553e5a6ac0d25f0</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-09-30 02:17:44</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=531671c4504d52105553e5a6ac0d25f0"/>
+</record_update>

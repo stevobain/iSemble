@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_list_menu_config">
+    <sys_ux_list_menu_config action="DELETE">
+        <active>true</active>
+        <description/>
+        <name>iSemble Workspace_menu_config</name>
+        <sys_class_name>sys_ux_list_menu_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 01:24:07</sys_created_on>
+        <sys_id>3ad9e984830d5210ffcebfc6feaad38a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>iSemble Workspace_menu_config</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sys_ux_list_menu_config_3ad9e984830d5210ffcebfc6feaad38a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 01:24:07</sys_updated_on>
+    </sys_ux_list_menu_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</application>
+        <file_path/>
+        <instance_id>abd8b005ebc7ca98e9bbfddacad0cd59</instance_id>
+        <instance_name>dev276429</instance_name>
+        <name>sys_ux_list_menu_config_3ad9e984830d5210ffcebfc6feaad38a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_list_menu_config"><sys_ux_list_menu_config action="INSERT_OR_UPDATE"><active>true</active><description/><name>iSemble Workspace_menu_config</name><sys_class_name>sys_ux_list_menu_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-30 01:24:07</sys_created_on><sys_id>3ad9e984830d5210ffcebfc6feaad38a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>iSemble Workspace_menu_config</sys_name><sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package><sys_policy/><sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope><sys_update_name>sys_ux_list_menu_config_3ad9e984830d5210ffcebfc6feaad38a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-30 01:24:07</sys_updated_on></sys_ux_list_menu_config></record_update>]]></payload>
+        <payload_hash>1597316977</payload_hash>
+        <record_name>iSemble Workspace_menu_config</record_name>
+        <reverted_from/>
+        <source>b75b608883c55210ffcebfc6feaad367</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 01:24:07</sys_created_on>
+        <sys_id>72d9e984830d5210ffcebfc6feaad399</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192408713700000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 01:24:07</sys_updated_on>
+        <type>UX List Menu Configuration</type>
+        <update_guid>7ed9e984060d5210139483908f18418b</update_guid>
+        <update_guid_history>7ed9e984060d5210139483908f18418b:1597316977</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 01:28:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_list_menu_config">sys_ux_list_menu_config</sys_db_object>
+        <sys_id>206c1155541a4572886103b879b49944</sys_id>
+        <sys_metadata>3ad9e984830d5210ffcebfc6feaad38a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>iSemble Workspace_menu_config</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_scope_delete display_value="">f058eb2433d3418e9f3068b4f03fe304</sys_scope_delete>
+        <sys_update_name>sys_ux_list_menu_config_3ad9e984830d5210ffcebfc6feaad38a</sys_update_name>
+        <sys_update_version display_value="sys_ux_list_menu_config_3ad9e984830d5210ffcebfc6feaad38a">72d9e984830d5210ffcebfc6feaad399</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 01:28:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

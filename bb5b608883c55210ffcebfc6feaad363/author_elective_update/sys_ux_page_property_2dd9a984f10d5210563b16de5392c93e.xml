@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>globalSearchDataConfigId</name>
+        <page display_value="">e5d9a984000d5210e54140e4e909594f</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 01:24:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>2dd9a984f10d5210563b16de5392c93e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sys_ux_page_property_2dd9a984f10d5210563b16de5392c93e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 01:24:03</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1394569_isemble.e5d9a984000d5210e54140e4e909594f.root.globalSearchDataConfigId</unique_name>
+        <value>25d9a9846b0d521092f28ffe29753846</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</application>
+        <file_path/>
+        <instance_id>abd8b005ebc7ca98e9bbfddacad0cd59</instance_id>
+        <instance_name>dev276429</instance_name>
+        <name>sys_ux_page_property_2dd9a984f10d5210563b16de5392c93e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>globalSearchDataConfigId</name><page display_value="">e5d9a984000d5210e54140e4e909594f</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-30 01:24:03</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>2dd9a984f10d5210563b16de5392c93e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>globalSearchDataConfigId</sys_name><sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package><sys_policy/><sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope><sys_update_name>sys_ux_page_property_2dd9a984f10d5210563b16de5392c93e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-30 01:24:03</sys_updated_on><type>string</type><unique_name>x_1394569_isemble.e5d9a984000d5210e54140e4e909594f.root.globalSearchDataConfigId</unique_name><value>25d9a9846b0d521092f28ffe29753846</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-1338292166</payload_hash>
+        <record_name>globalSearchDataConfigId</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 01:28:32</sys_created_on>
+        <sys_id>a3da6908830d5210ffcebfc6feaad37d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192408b212d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 01:28:32</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>63da6908ba0d5210d4cf4b0fd152f07d</update_guid>
+        <update_guid_history>63da6908ba0d5210d4cf4b0fd152f07d:-1338292166</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 01:28:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>2e6d8397329a45d4a61430dca95db6a4</sys_id>
+        <sys_metadata>2dd9a984f10d5210563b16de5392c93e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_scope_delete display_value="">f058eb2433d3418e9f3068b4f03fe304</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_2dd9a984f10d5210563b16de5392c93e</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_2dd9a984f10d5210563b16de5392c93e">a3da6908830d5210ffcebfc6feaad37d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 01:28:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
