@@ -28,7 +28,7 @@
         <function_definition/>
         <function_field>false</function_field>
         <internal_type display_value="Reference">reference</internal_type>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <max_length>32</max_length>
         <name>x_1394569_isemble_reservation</name>
         <next_element/>
@@ -54,7 +54,7 @@
         <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
         <sys_update_name>sys_dictionary_x_1394569_isemble_reservation_approver</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-09-30 19:21:52</sys_updated_on>
+        <sys_updated_on>2024-10-02 17:53:55</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
