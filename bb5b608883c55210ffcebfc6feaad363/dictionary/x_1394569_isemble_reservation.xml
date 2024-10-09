@@ -2,26 +2,20 @@
     <element db_object_id="03dc600c83c55210ffcebfc6feaad3bd" label="Reservation" max_length="40" name="x_1394569_isemble_reservation" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" read_only="true" type="string"/>
         <element default="javascript:gs.getUserID();" dynamic_default_value="90d1921e5f510100a9ad2572f2b477fe" label="Reserved By" max_length="32" name="reserved_by" read_only="true" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <element label="Purpose" max_length="400" name="purpose" type="string"/>
         <element label="Start Time" mandatory="true" max_length="40" name="start_time" type="glide_date_time"/>
         <element label="Room" mandatory="true" max_length="32" name="room" reference="x_1394569_isemble_room" reference_qual="room_status=available" reference_qual_condition="room_status=available" type="reference"/>
+        <element default="Pending" label="Reservation Status" max_length="40" name="reservation_status" read_only="true" type="string"/>
         <element label="End Time" mandatory="true" max_length="40" name="end_time" type="glide_date_time"/>
         <element label="Approver" mandatory="true" max_length="32" name="approver" reference="sys_user" reference_qual="roles=x_1394569_isemble.admin" reference_qual_condition="roles=x_1394569_isemble.admin" type="reference"/>
-        <element label="Purpose" max_length="400" name="purpose" type="string"/>
-        <element choice="3" default="Pending" label="Reservation Status" max_length="40" name="reservation_status" read_only="true" type="choice">
-            <choice>
-                <element inactive_on_update="false" label="Confirmed" sequence="1" value="confirmed"/>
-                <element inactive_on_update="false" label="Canceled" sequence="2" value="canceled"/>
-                <element inactive_on_update="false" label="Pending" sequence="0" value="pending"/>
-            </choice>
-        </element>
         <index name="index">
-            <element name="approver"/>
-        </index>
-        <index name="index2">
             <element name="reserved_by"/>
         </index>
-        <index name="index3">
+        <index name="index2">
             <element name="room"/>
+        </index>
+        <index name="index3">
+            <element name="approver"/>
         </index>
     </element>
 </database>
