@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="DELETE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_1394569_isemble.GetAvailableRooms</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>GetAvailableRooms</name>
+        <script><![CDATA[var GetAvailableRooms = Class.create();
+GetAvailableRooms.prototype = {
+    initialize: function() {},
+
+    getAvailableRooms: function() {
+        var availableRooms = [];
+        var roomGr = new GlideRecord('x_1394569_isemble_room');
+        roomGr.addQuery('room_status', 'available');
+        roomGr.query();
+
+        while (roomGr.next()) {
+            availableRooms.push({
+                value: roomGr.sys_id.toString(),
+                label: roomGr.room_name.toString()
+            });
+        }
+        return JSON.stringify(availableRooms);
+    },
+
+    type: 'GetAvailableRooms'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-15 18:48:49</sys_created_on>
+        <sys_id>9d78ae41839952108c5d91d6feaad383</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>GetAvailableRooms</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sys_script_include_9d78ae41839952108c5d91d6feaad383</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-15 18:51:37</sys_updated_on>
+    </sys_script_include>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</application>
+        <file_path/>
+        <instance_id>1ac42f903b378658677f04e0b5e45ae2</instance_id>
+        <instance_name>dev284320</instance_name>
+        <name>sys_script_include_9d78ae41839952108c5d91d6feaad383</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_1394569_isemble.GetAvailableRooms&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;true&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;GetAvailableRooms&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var GetAvailableRooms = Class.create();
+GetAvailableRooms.prototype = {
+    initialize: function() {},
+
+    getAvailableRooms: function() {
+        var availableRooms = [];
+        var roomGr = new GlideRecord('x_1394569_isemble_room');
+        roomGr.addQuery('room_status', 'available');
+        roomGr.query();
+
+        while (roomGr.next()) {
+            availableRooms.push({
+                value: roomGr.sys_id.toString(),
+                label: roomGr.room_name.toString()
+            });
+        }
+        return JSON.stringify(availableRooms);
+    },
+
+    type: 'GetAvailableRooms'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 18:48:49&lt;/sys_created_on&gt;&lt;sys_id&gt;9d78ae41839952108c5d91d6feaad383&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;GetAvailableRooms&lt;/sys_name&gt;&lt;sys_package display_value="iSemble" source="x_1394569_isemble"&gt;bb5b608883c55210ffcebfc6feaad363&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="iSemble"&gt;bb5b608883c55210ffcebfc6feaad363&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_9d78ae41839952108c5d91d6feaad383&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 18:51:37&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1426870206</payload_hash>
+        <record_name>GetAvailableRooms</record_name>
+        <reverted_from/>
+        <source>0ca36054834112108c5d91d6feaad39a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-15 18:51:37</sys_created_on>
+        <sys_id>5579ea81839952108c5d91d6feaad31e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19291857b900000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-15 18:51:37</sys_updated_on>
+        <type>Script Include</type>
+        <update_guid>d979ea81bf995210bfd1fda6daa17b1d</update_guid>
+        <update_guid_history>d979ea81bf995210bfd1fda6daa17b1d:-1426870206,4709aa8142995210909c42cc58cdeedd:399853788,90d8e28151995210e0a3c80122deb570:1612701479</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-16 15:31:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_include">sys_script_include</sys_db_object>
+        <sys_id>15c0b6dd1054426c8973b3227d1fd5e4</sys_id>
+        <sys_metadata>9d78ae41839952108c5d91d6feaad383</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GetAvailableRooms</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_scope_delete display_value="">f058eb2433d3418e9f3068b4f03fe304</sys_scope_delete>
+        <sys_update_name>sys_script_include_9d78ae41839952108c5d91d6feaad383</sys_update_name>
+        <sys_update_version display_value="sys_script_include_9d78ae41839952108c5d91d6feaad383">5579ea81839952108c5d91d6feaad31e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-16 15:31:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

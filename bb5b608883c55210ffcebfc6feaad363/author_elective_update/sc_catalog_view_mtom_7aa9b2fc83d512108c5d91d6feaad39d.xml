@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="DELETE">
+        <default>false</default>
+        <sc_catalog display_value="iSemble Catalog">8650fd30839112108c5d91d6feaad380</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-15 01:23:57</sys_created_on>
+        <sys_id>7aa9b2fc83d512108c5d91d6feaad39d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>iSemble Catalog.Catalog</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="Catalog">453809e40a04bfde001fb14e5729693d</sys_portal_page>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_7aa9b2fc83d512108c5d91d6feaad39d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-15 01:23:57</sys_updated_on>
+    </sc_catalog_view_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</application>
+        <file_path/>
+        <instance_id>1ac42f903b378658677f04e0b5e45ae2</instance_id>
+        <instance_name>dev284320</instance_name>
+        <name>sc_catalog_view_mtom_7aa9b2fc83d512108c5d91d6feaad39d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom"><sc_catalog_view_mtom action="INSERT_OR_UPDATE"><default>false</default><sc_catalog display_value="iSemble Catalog">8650fd30839112108c5d91d6feaad380</sc_catalog><sys_class_name>sc_catalog_view_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-15 01:23:57</sys_created_on><sys_id>7aa9b2fc83d512108c5d91d6feaad39d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>iSemble Catalog.Catalog</sys_name><sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package><sys_policy/><sys_portal_page display_value="Catalog">453809e40a04bfde001fb14e5729693d</sys_portal_page><sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope><sys_update_name>sc_catalog_view_mtom_7aa9b2fc83d512108c5d91d6feaad39d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-15 01:23:57</sys_updated_on></sc_catalog_view_mtom></record_update>]]></payload>
+        <payload_hash>-1456771889</payload_hash>
+        <record_name>iSemble Catalog.Catalog</record_name>
+        <reverted_from/>
+        <source>0ca36054834112108c5d91d6feaad39a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-15 01:23:57</sys_created_on>
+        <sys_id>fea9b2fc83d512108c5d91d6feaad39f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1928dc652ee0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-15 01:23:57</sys_updated_on>
+        <type>Catalog Portal Page</type>
+        <update_guid>f2a9b2fc8ed51210afb550630134c69f</update_guid>
+        <update_guid_history>f2a9b2fc8ed51210afb550630134c69f:-1456771889</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="iSemble Catalog.Catalog">9e866fb483d912108c5d91d6feaad378</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-15 04:39:59</sys_created_on>
+        <sys_db_object display_value="" name="sc_catalog_view_mtom">sc_catalog_view_mtom</sys_db_object>
+        <sys_id>3626889f4ac44384bf7887be33bfd491</sys_id>
+        <sys_metadata>7aa9b2fc83d512108c5d91d6feaad39d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>iSemble Catalog.Catalog</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_scope_delete display_value="">f058eb2433d3418e9f3068b4f03fe304</sys_scope_delete>
+        <sys_update_name>sc_catalog_view_mtom_7aa9b2fc83d512108c5d91d6feaad39d</sys_update_name>
+        <sys_update_version display_value="sc_catalog_view_mtom_7aa9b2fc83d512108c5d91d6feaad39d">fea9b2fc83d512108c5d91d6feaad39f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-15 04:39:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

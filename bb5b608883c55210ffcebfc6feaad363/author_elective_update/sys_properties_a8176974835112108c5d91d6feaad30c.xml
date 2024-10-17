@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices/>
+        <description>If true, portal css would be in rem units</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.service_portal.resize_text.ip.enable_rem_conversion</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-14 19:23:05</sys_created_on>
+        <sys_id>a8176974835112108c5d91d6feaad30c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.service_portal.resize_text.ip.enable_rem_conversion</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sys_properties_a8176974835112108c5d91d6feaad30c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-14 19:23:05</sys_updated_on>
+        <type>boolean</type>
+        <value>true</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=a8176974835112108c5d91d6feaad30c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</application>
+        <file_path/>
+        <instance_id>1ac42f903b378658677f04e0b5e45ae2</instance_id>
+        <instance_name>dev284320</instance_name>
+        <name>sys_properties_a8176974835112108c5d91d6feaad30c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>If true, portal css would be in rem units</description><ignore_cache>true</ignore_cache><is_private>false</is_private><name>glide.service_portal.resize_text.ip.enable_rem_conversion</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-14 19:23:05</sys_created_on><sys_id>a8176974835112108c5d91d6feaad30c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>glide.service_portal.resize_text.ip.enable_rem_conversion</sys_name><sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package><sys_policy/><sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope><sys_update_name>sys_properties_a8176974835112108c5d91d6feaad30c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-14 19:23:05</sys_updated_on><type>boolean</type><value>true</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=a8176974835112108c5d91d6feaad30c"/></record_update>]]></payload>
+        <payload_hash>1356751129</payload_hash>
+        <record_name>glide.service_portal.resize_text.ip.enable_rem_conversion</record_name>
+        <reverted_from/>
+        <source>0ca36054834112108c5d91d6feaad39a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-14 19:23:06</sys_created_on>
+        <sys_id>34176974835112108c5d91d6feaad311</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1928c7bf1ee0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-14 19:23:06</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>3817697478511210d04ed15f18e33c10</update_guid>
+        <update_guid_history>3817697478511210d04ed15f18e33c10:1356751129</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-15 04:40:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>1c29d59e4a36470c9f2d8b03a5f84439</sys_id>
+        <sys_metadata>a8176974835112108c5d91d6feaad30c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.service_portal.resize_text.ip.enable_rem_conversion</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_scope_delete display_value="">f058eb2433d3418e9f3068b4f03fe304</sys_scope_delete>
+        <sys_update_name>sys_properties_a8176974835112108c5d91d6feaad30c</sys_update_name>
+        <sys_update_version display_value="sys_properties_a8176974835112108c5d91d6feaad30c">34176974835112108c5d91d6feaad311</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-15 04:40:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

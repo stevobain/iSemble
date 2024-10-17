@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Room Request w/ iSemble">95c3ce7883d112108c5d91d6feaad3ce</sc_cat_item>
+        <sc_category display_value="iSemble">73d9befc83d512108c5d91d6feaad34f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-15 01:27:11</sys_created_on>
+        <sys_id>8e6a7230831912108c5d91d6feaad327</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>iSemble.Room Request w/ iSemble</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sc_cat_item_category_8e6a7230831912108c5d91d6feaad327</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-15 01:27:11</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</application>
+        <file_path/>
+        <instance_id>1ac42f903b378658677f04e0b5e45ae2</instance_id>
+        <instance_name>dev284320</instance_name>
+        <name>sc_cat_item_category_8e6a7230831912108c5d91d6feaad327</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Room Request w/ iSemble">95c3ce7883d112108c5d91d6feaad3ce</sc_cat_item><sc_category display_value="iSemble">73d9befc83d512108c5d91d6feaad34f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-15 01:27:11</sys_created_on><sys_id>8e6a7230831912108c5d91d6feaad327</sys_id><sys_mod_count>0</sys_mod_count><sys_name>iSemble.Room Request w/ iSemble</sys_name><sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package><sys_policy/><sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope><sys_update_name>sc_cat_item_category_8e6a7230831912108c5d91d6feaad327</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-15 01:27:11</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>450193776</payload_hash>
+        <record_name>iSemble.Room Request w/ iSemble</record_name>
+        <reverted_from/>
+        <source>0ca36054834112108c5d91d6feaad39a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-15 01:27:11</sys_created_on>
+        <sys_id>ce6aba30831912108c5d91d6feaad3b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1928dc948680000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-15 01:27:11</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>c26aba30be19121064bc0afb6c9ab3b8</update_guid>
+        <update_guid_history>c26aba30be19121064bc0afb6c9ab3b8:450193776</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="iSemble.Room Request w/ iSemble">f70f977c839912108c5d91d6feaad34b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-15 04:07:19</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>55845e0fbcf74fc8849beb7c3b0bda40</sys_id>
+        <sys_metadata>8e6a7230831912108c5d91d6feaad327</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>iSemble.Room Request w/ iSemble</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_scope_delete display_value="">f058eb2433d3418e9f3068b4f03fe304</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_8e6a7230831912108c5d91d6feaad327</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_8e6a7230831912108c5d91d6feaad327">ce6aba30831912108c5d91d6feaad3b8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-15 04:07:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
