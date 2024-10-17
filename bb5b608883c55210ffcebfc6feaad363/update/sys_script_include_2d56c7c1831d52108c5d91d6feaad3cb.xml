@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_1394569_isemble.iSembleUtils</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>iSembleUtils</name>
+        <script><![CDATA[var iSembleUtils = Class.create();
+iSembleUtils.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+
+    getAvailableRoomsOnLoad: function() {
+        var availableRooms = [];
+        var roomGr = new GlideRecord('x_1394569_isemble_room');
+        roomGr.addQuery('room_status', 'available');
+        roomGr.query();
+
+        while (roomGr.next()) {
+            availableRooms.push({
+                value: roomGr.sys_id.toString(),
+                label: roomGr.room_name.toString()
+            });
+        }
+
+        return JSON.stringify(availableRooms);
+    },
+
+    getAvailableRoomsOnChange: function() {
+        var availableRooms = [];
+        var capacity = this.getParameter('sysparm_capacity');
+        var equipment = this.getParameter('sysparm_equipment');
+        var capacityNum = parseInt(capacity, 10);
+
+        var roomGr = new GlideRecord('x_1394569_isemble_room');
+        roomGr.addQuery('room_status', 'available');
+
+        if (capacityNum) {
+            roomGr.addQuery('capacity', '>=', capacityNum);
+        }
+
+        if (equipment) {
+            roomGr.addQuery('equipment.equipment_name', equipment);
+        }
+
+        roomGr.query();
+
+        while (roomGr.next()) {
+            availableRooms.push({
+                value: roomGr.sys_id.toString(),
+                label: roomGr.room_name.toString()
+            });
+        }
+
+        return JSON.stringify(availableRooms);
+    },
+
+    type: 'iSembleUtils'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-15 21:01:08</sys_created_on>
+        <sys_id>2d56c7c1831d52108c5d91d6feaad3cb</sys_id>
+        <sys_mod_count>34</sys_mod_count>
+        <sys_name>iSembleUtils</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sys_script_include_2d56c7c1831d52108c5d91d6feaad3cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-16 21:29:23</sys_updated_on>
+    </sys_script_include>
+</record_update>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_action">
     <sys_ui_action action="INSERT_OR_UPDATE">
-        <action_name/>
+        <action_name>Reject</action_name>
         <active>true</active>
         <client>false</client>
         <client_script_v2><![CDATA[function onClick(g_form) {
 
 }]]></client_script_v2>
         <comments/>
-        <condition>current.reservation_status == 'Pending'</condition>
+        <condition>current.reservation_status=='pending'&amp;&amp;current.approver==gs.getUserID()&amp;&amp;current.reserved_by!=gs.getUserID()</condition>
         <form_action>true</form_action>
         <form_button>true</form_button>
         <form_button_v2>false</form_button_v2>
@@ -42,7 +42,7 @@ current.update();]]></script>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>4d1dba47830152103cf0ba29feaad339</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>19</sys_mod_count>
         <sys_name>Reject</sys_name>
         <sys_overrides/>
         <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
@@ -50,20 +50,9 @@ current.update();]]></script>
         <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
         <sys_update_name>sys_ui_action_4d1dba47830152103cf0ba29feaad339</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-09 16:55:55</sys_updated_on>
+        <sys_updated_on>2024-10-16 22:12:57</sys_updated_on>
         <table>x_1394569_isemble_reservation</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>
     </sys_ui_action>
-    <sys_es_latest_script action="INSERT_OR_UPDATE">
-        <id>4d1dba47830152103cf0ba29feaad339</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-10-09 15:11:35</sys_created_on>
-        <sys_id>f38d760b83cd12103cf0ba29feaad347</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-09 15:11:35</sys_updated_on>
-        <table>sys_ui_action</table>
-        <use_es_latest>true</use_es_latest>
-    </sys_es_latest_script>
 </record_update>

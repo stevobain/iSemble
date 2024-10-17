@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="DELETE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_1394569_isemble.user" name="x_1394569_isemble.user">846b608883c55210ffcebfc6feaad38a</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 01:24:07</sys_created_on>
+        <sys_id>3ed9e984830d5210ffcebfc6feaad3d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.x_1394569_isemble.user</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sys_user_role_contains_3ed9e984830d5210ffcebfc6feaad3d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 01:24:07</sys_updated_on>
+    </sys_user_role_contains>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</application>
+        <file_path/>
+        <instance_id>1ac42f903b378658677f04e0b5e45ae2</instance_id>
+        <instance_name>dev284320</instance_name>
+        <name>sys_user_role_contains_3ed9e984830d5210ffcebfc6feaad3d7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_1394569_isemble.user" name="x_1394569_isemble.user">846b608883c55210ffcebfc6feaad38a</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 01:24:07</sys_created_on>
+        <sys_id>3ed9e984830d5210ffcebfc6feaad3d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.x_1394569_isemble.user</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sys_user_role_contains_3ed9e984830d5210ffcebfc6feaad3d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 01:24:07</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>]]></payload>
+        <payload_hash>967738141</payload_hash>
+        <record_name>canvas_user.x_1394569_isemble.user</record_name>
+        <reverted_from/>
+        <source>50736cd483c112108c5d91d6feaad39d</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 14:55:14</sys_created_on>
+        <sys_id>1483e01883c112108c5d91d6feaad3a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192436daf9d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 14:55:14</sys_updated_on>
+        <type>Contained Role</type>
+        <update_guid>d083e01872c112105900a8537872bfa9</update_guid>
+        <update_guid_history>d083e01872c112105900a8537872bfa9:967738141</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-16 18:35:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role_contains">sys_user_role_contains</sys_db_object>
+        <sys_id>182d18c4f38f48b4a5d784de89041651</sys_id>
+        <sys_metadata>3ed9e984830d5210ffcebfc6feaad3d7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.x_1394569_isemble.user</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_scope_delete display_value="">f058eb2433d3418e9f3068b4f03fe304</sys_scope_delete>
+        <sys_update_name>sys_user_role_contains_3ed9e984830d5210ffcebfc6feaad3d7</sys_update_name>
+        <sys_update_version display_value="sys_user_role_contains_3ed9e984830d5210ffcebfc6feaad3d7">1483e01883c112108c5d91d6feaad3a9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-16 18:35:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>2_custom_portal_approval_x_1394569_isemble</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-09-30 02:17:44</sys_created_on>
+        <sys_id>1316b1c4294d5210c41695ce2846af12</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2_custom_portal_approval_x_1394569_isemble</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sys_ui_view_1316b1c4294d5210c41695ce2846af12</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-09-30 02:17:44</sys_updated_on>
+        <title>2_custom_portal_approval_x_1394569_isemble</title>
+        <user/>
+    </sys_ui_view>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</application>
+        <file_path/>
+        <instance_id>1ac42f903b378658677f04e0b5e45ae2</instance_id>
+        <instance_name>dev284320</instance_name>
+        <name>sys_ui_view_1316b1c4294d5210c41695ce2846af12</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>2_custom_portal_approval_x_1394569_isemble</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-09-30 02:17:44</sys_created_on>
+        <sys_id>1316b1c4294d5210c41695ce2846af12</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2_custom_portal_approval_x_1394569_isemble</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sys_ui_view_1316b1c4294d5210c41695ce2846af12</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-09-30 02:17:44</sys_updated_on>
+        <title>2_custom_portal_approval_x_1394569_isemble</title>
+        <user/>
+    </sys_ui_view>
+</record_update>]]></payload>
+        <payload_hash>1783703668</payload_hash>
+        <record_name>2_custom_portal_approval_x_1394569_isemble</record_name>
+        <reverted_from/>
+        <source>50736cd483c112108c5d91d6feaad39d</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 14:55:06</sys_created_on>
+        <sys_id>a273201883c112108c5d91d6feaad315</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192436d8fb00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 14:55:06</sys_updated_on>
+        <type>UI View</type>
+        <update_guid>6273201887c11210fdffa8069562ee15</update_guid>
+        <update_guid_history>6273201887c11210fdffa8069562ee15:1783703668</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-10-16 20:22:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>76cda6aab156420c989633d1fb8f9cc9</sys_id>
+        <sys_metadata>1316b1c4294d5210c41695ce2846af12</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2_custom_portal_approval_x_1394569_isemble</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_scope_delete display_value="">f058eb2433d3418e9f3068b4f03fe304</sys_scope_delete>
+        <sys_update_name>sys_ui_view_1316b1c4294d5210c41695ce2846af12</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_1316b1c4294d5210c41695ce2846af12">a273201883c112108c5d91d6feaad315</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-10-16 20:22:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="DELETE">
+        <create_roles/>
+        <description/>
+        <display_title>false</display_title>
+        <internal_name>isemble_request</internal_name>
+        <layout>normal</layout>
+        <name/>
+        <order>100</order>
+        <read_roles/>
+        <set_attributes/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-14 23:30:04</sys_created_on>
+        <sys_id>377f92bc835512108c5d91d6feaad3c3</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>iSemble Request</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>item_option_new_set_377f92bc835512108c5d91d6feaad3c3</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-10-14 23:31:05</sys_updated_on>
+        <title>iSemble Request</title>
+        <type>one_to_one</type>
+        <version>3</version>
+        <write_roles/>
+    </item_option_new_set>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</application>
+        <file_path/>
+        <instance_id>1ac42f903b378658677f04e0b5e45ae2</instance_id>
+        <instance_name>dev284320</instance_name>
+        <name>item_option_new_set_377f92bc835512108c5d91d6feaad3c3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set"><item_option_new_set action="INSERT_OR_UPDATE"><create_roles/><description/><display_title>false</display_title><internal_name>isemble_request</internal_name><layout>normal</layout><name/><order>100</order><read_roles/><set_attributes/><sys_class_name>item_option_new_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-14 23:30:04</sys_created_on><sys_id>377f92bc835512108c5d91d6feaad3c3</sys_id><sys_mod_count>3</sys_mod_count><sys_name>iSemble Request</sys_name><sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package><sys_policy/><sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope><sys_update_name>item_option_new_set_377f92bc835512108c5d91d6feaad3c3</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-10-14 23:31:05</sys_updated_on><title>iSemble Request</title><type>one_to_one</type><version>3</version><write_roles/></item_option_new_set></record_update>]]></payload>
+        <payload_hash>1646440049</payload_hash>
+        <record_name>iSemble Request</record_name>
+        <reverted_from/>
+        <source>0ca36054834112108c5d91d6feaad39a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-10-14 23:31:05</sys_created_on>
+        <sys_id>51df96bc835512108c5d91d6feaad379</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1928d5efcb60000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-10-14 23:31:05</sys_updated_on>
+        <type>Variable Set</type>
+        <update_guid>95df96bc6255121043fa665ae84ea378</update_guid>
+        <update_guid_history>95df96bc6255121043fa665ae84ea378:1646440049,18df5abc1a551210ed6a8bb94d1909bf:1855138352,bacf5abc0e55121078706f2a5b08161e:2063836655,a69fde7c29551210bacb3e8ca91b2652:-1110174254</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="iSemble Request">8f402ebc835512108c5d91d6feaad34c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-10-14 23:33:07</sys_created_on>
+        <sys_db_object display_value="" name="item_option_new_set">item_option_new_set</sys_db_object>
+        <sys_id>07554ac2945d4a5a89b82df76fe94fe9</sys_id>
+        <sys_metadata>377f92bc835512108c5d91d6feaad3c3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>iSemble Request</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_scope_delete display_value="">f058eb2433d3418e9f3068b4f03fe304</sys_scope_delete>
+        <sys_update_name>item_option_new_set_377f92bc835512108c5d91d6feaad3c3</sys_update_name>
+        <sys_update_version display_value="item_option_new_set_377f92bc835512108c5d91d6feaad3c3">51df96bc835512108c5d91d6feaad379</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-10-14 23:33:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

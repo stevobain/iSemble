@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Administrator_view</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-09 14:28:58</sys_created_on>
+        <sys_id>5fc3b24f830d12103cf0ba29feaad38f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Administrator view</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sys_ui_view_5fc3b24f830d12103cf0ba29feaad38f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-09 16:59:01</sys_updated_on>
+        <title>Administrator view</title>
+        <user/>
+    </sys_ui_view>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</application>
+        <file_path/>
+        <instance_id>1ac42f903b378658677f04e0b5e45ae2</instance_id>
+        <instance_name>dev284320</instance_name>
+        <name>sys_ui_view_5fc3b24f830d12103cf0ba29feaad38f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Administrator_view</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-09 14:28:58</sys_created_on>
+        <sys_id>5fc3b24f830d12103cf0ba29feaad38f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Administrator view</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sys_ui_view_5fc3b24f830d12103cf0ba29feaad38f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-09 16:59:01</sys_updated_on>
+        <title>Administrator view</title>
+        <user/>
+    </sys_ui_view>
+</record_update>]]></payload>
+        <payload_hash>2126666961</payload_hash>
+        <record_name>Administrator view</record_name>
+        <reverted_from/>
+        <source>fada53c383c112108c5d91d6feaad396</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-09 17:19:59</sys_created_on>
+        <sys_id>90fa97c383c112108c5d91d6feaad3f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192724b6ef30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-09 17:19:59</sys_updated_on>
+        <type>UI View</type>
+        <update_guid>50fa97c307c11210862b1257c264a2f8</update_guid>
+        <update_guid_history>50fa97c307c11210862b1257c264a2f8:2126666961</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-16 20:20:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>08e550c94252455ca45443eafaf67b10</sys_id>
+        <sys_metadata>5fc3b24f830d12103cf0ba29feaad38f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Administrator view</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_scope_delete display_value="">f058eb2433d3418e9f3068b4f03fe304</sys_scope_delete>
+        <sys_update_name>sys_ui_view_5fc3b24f830d12103cf0ba29feaad38f</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_5fc3b24f830d12103cf0ba29feaad38f">90fa97c383c112108c5d91d6feaad3f8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-16 20:20:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
