@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <caller_access/>
+        <derived_priority>100</derived_priority>
+        <description/>
+        <event_name>x_1394569_isemble.ReservationReminder</event_name>
+        <fired_by/>
+        <priority>100</priority>
+        <queue/>
+        <suffix>ReservationReminder</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-22 01:07:07</sys_created_on>
+        <sys_id>91c8b2cf839912108c5d91d6feaad37d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1394569_isemble.ReservationReminder</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sysevent_register_91c8b2cf839912108c5d91d6feaad37d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-22 01:07:07</sys_updated_on>
+        <table>x_1394569_isemble_reservation</table>
+    </sysevent_register>
+</record_update>
