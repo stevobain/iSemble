@@ -10,6 +10,39 @@
         <script><![CDATA[var iSembleUtils = Class.create();
 iSembleUtils.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
 
+	getUnavailableTimes: function() {
+		var unavailableTimes = [];
+		var room = this.getParameter('sysparm_room');
+        var startTime = this.getParameter('sysparm_start_time');
+		var endTime = this.getParameter('sysparm_end_time');
+		
+		var startGdt = new GlideDateTime();
+		startGdt.setDisplayValue(startTime);
+		var start = startGdt.getValue();
+		var endGdt = new GlideDateTime();
+		endGdt.setDisplayValue(endTime);
+		var end = endGdt.getValue();
+
+		var reservationGR = new GlideRecord('x_1394569_isemble_reservation');
+
+        if (startTime && endTime) {
+			reservationGR.addQuery('room', room);
+            reservationGR.addQuery('start_time', '<', end);
+			reservationGR.addQuery('end_time', '>', start);
+			reservationGR.addQuery('reservation_status', 'confirmed');
+			reservationGR.query();
+        }
+
+        while (reservationGR.next()) {
+            unavailableTimes.push({
+                start: reservationGR.start_time.toString(),
+                end: reservationGR.end_time.toString()
+            });
+        }
+
+        return JSON.stringify(unavailableTimes);
+	},
+
     getAvailableRoomsOnLoad: function() {
         var availableRooms = [];
         var roomGr = new GlideRecord('x_1394569_isemble_room');
@@ -61,13 +94,13 @@ iSembleUtils.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-10-15 21:01:08</sys_created_on>
         <sys_id>2d56c7c1831d52108c5d91d6feaad3cb</sys_id>
-        <sys_mod_count>34</sys_mod_count>
+        <sys_mod_count>47</sys_mod_count>
         <sys_name>iSembleUtils</sys_name>
         <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
         <sys_policy/>
         <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
         <sys_update_name>sys_script_include_2d56c7c1831d52108c5d91d6feaad3cb</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-16 21:29:23</sys_updated_on>
+        <sys_updated_on>2024-10-28 21:38:01</sys_updated_on>
     </sys_script_include>
 </record_update>
