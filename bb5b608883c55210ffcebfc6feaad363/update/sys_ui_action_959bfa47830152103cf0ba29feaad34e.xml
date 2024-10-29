@@ -7,7 +7,7 @@
 
 }]]></client_script_v2>
         <comments/>
-        <condition>current.reservation_status=='pending'&amp;&amp;current.approver==gs.getUserID()&amp;&amp;current.reserved_by!=gs.getUserID()</condition>
+        <condition>current.reservation_status=='pending'&amp;&amp;current.reserved_by!=gs.getUserID()</condition>
         <form_action>true</form_action>
         <form_button>true</form_button>
         <form_button_v2>false</form_button_v2>
@@ -30,8 +30,25 @@
         <name>Approve</name>
         <onclick/>
         <order>100</order>
-        <script><![CDATA[current.reservation_status = 'Confirmed';
-current.update();]]></script>
+        <script><![CDATA[var room = current.room;
+var startTime = current.start_time;
+var endTime = current.end_time;
+
+var reservationGR = new GlideRecord('x_1394569_isemble_reservation');
+reservationGR.addQuery('room', room);
+reservationGR.addQuery('reservation_status', 'confirmed');
+reservationGR.addQuery('end_time', '>=', startTime);
+reservationGR.addQuery('start_time', '<=', endTime);
+reservationGR.query();
+
+if (reservationGR.hasNext()) {
+    gs.addErrorMessage("That reservation overlaps with a confirmed reservation on " + room.room_name + ". Cannot approve.");
+    action.setAbortAction(true);
+} else {
+	current.approver = gs.getUserID();
+    current.reservation_status = 'Confirmed';
+    current.update();
+}]]></script>
         <show_insert>true</show_insert>
         <show_multiple_update>false</show_multiple_update>
         <show_query>false</show_query>
@@ -42,7 +59,7 @@ current.update();]]></script>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>959bfa47830152103cf0ba29feaad34e</sys_id>
-        <sys_mod_count>23</sys_mod_count>
+        <sys_mod_count>30</sys_mod_count>
         <sys_name>Approve</sys_name>
         <sys_overrides/>
         <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
@@ -50,9 +67,9 @@ current.update();]]></script>
         <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
         <sys_update_name>sys_ui_action_959bfa47830152103cf0ba29feaad34e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-16 22:10:32</sys_updated_on>
+        <sys_updated_on>2024-10-29 18:45:04</sys_updated_on>
         <table>x_1394569_isemble_reservation</table>
-        <ui11_compatible>true</ui11_compatible>
+        <ui11_compatible>false</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>
     </sys_ui_action>
 </record_update>
