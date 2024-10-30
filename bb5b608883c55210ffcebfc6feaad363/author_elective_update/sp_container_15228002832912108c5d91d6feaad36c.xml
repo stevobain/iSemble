@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name>breadcrumbs-container</class_name>
+        <container_class_name/>
+        <name>iSemble Catalog Item - Container 1</name>
+        <order>1</order>
+        <semantic_tag/>
+        <sp_page display_value="copy_of_sc_cat_item_1">51228002832912108c5d91d6feaad368</sp_page>
+        <subheader>true</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-30 19:30:13</sys_created_on>
+        <sys_id>15228002832912108c5d91d6feaad36c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>iSemble Catalog Item - Container 1</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sp_container_15228002832912108c5d91d6feaad36c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-30 19:31:02</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</application>
+        <file_path/>
+        <instance_id>1ac42f903b378658677f04e0b5e45ae2</instance_id>
+        <instance_name>dev284320</instance_name>
+        <name>sp_container_15228002832912108c5d91d6feaad36c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name>breadcrumbs-container</class_name><container_class_name/><name>iSemble Catalog Item - Container 1</name><order>1</order><semantic_tag/><sp_page display_value="copy_of_sc_cat_item_1">51228002832912108c5d91d6feaad368</sp_page><subheader>true</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-30 19:30:13</sys_created_on><sys_id>15228002832912108c5d91d6feaad36c</sys_id><sys_mod_count>1</sys_mod_count><sys_name>iSemble Catalog Item - Container 1</sys_name><sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package><sys_policy/><sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope><sys_update_name>sp_container_15228002832912108c5d91d6feaad36c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-30 19:31:02</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>583447036</payload_hash>
+        <record_name>iSemble Catalog Item - Container 1</record_name>
+        <reverted_from/>
+        <source>0ca36054834112108c5d91d6feaad39a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-30 19:31:02</sys_created_on>
+        <sys_id>0952c402832912108c5d91d6feaad3b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192dee8f6390000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-30 19:31:02</sys_updated_on>
+        <type>Container</type>
+        <update_guid>4d52c40280291210054e0ff7534089b4</update_guid>
+        <update_guid_history>4d52c40280291210054e0ff7534089b4:583447036,d1228002d8291210937f45825f98f06e:-1574251620</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="iSemble Catalog Item - Container 1">8d728c02832912108c5d91d6feaad3c9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-30 19:31:36</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>0ff35f3a79044bdc84ae2752c9b27d71</sys_id>
+        <sys_metadata>15228002832912108c5d91d6feaad36c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>iSemble Catalog Item - Container 1</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_scope_delete display_value="">f058eb2433d3418e9f3068b4f03fe304</sys_scope_delete>
+        <sys_update_name>sp_container_15228002832912108c5d91d6feaad36c</sys_update_name>
+        <sys_update_version display_value="sp_container_15228002832912108c5d91d6feaad36c">0952c402832912108c5d91d6feaad3b5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-30 19:31:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

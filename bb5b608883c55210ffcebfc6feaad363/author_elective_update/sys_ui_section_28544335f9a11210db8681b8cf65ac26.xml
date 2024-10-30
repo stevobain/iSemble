@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="28544335f9a11210db8681b8cf65ac26" sys_domain="global" table="sys_user" version="3" view="3_custom_portal_settings_x_1394569_isemble">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_zone</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-10-30 15:00:13</sys_created_on>
+            <sys_id>ac544335aaa11210d9ca1bbef7ff6726</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="e8544335d9a11210ee36affeae609b26">28544335f9a11210db8681b8cf65ac26</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-10-30 15:00:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-10-30 15:00:13</sys_created_on>
+            <sys_id>6054433527a11210b7ef95a6950aa127</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="e8544335d9a11210ee36affeae609b26">28544335f9a11210db8681b8cf65ac26</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-10-30 15:00:13</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_language</element>
+            <position>2</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-10-30 15:00:13</sys_created_on>
+            <sys_id>a05443351da112100f42c12518397125</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="e8544335d9a11210ee36affeae609b26">28544335f9a11210db8681b8cf65ac26</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-10-30 15:00:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>sys_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-10-30 15:00:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28544335f9a11210db8681b8cf65ac26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_user</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+            <sys_update_name>sys_ui_section_28544335f9a11210db8681b8cf65ac26</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-10-30 15:00:13</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="3_custom_portal_settings_x_1394569_isemble" name="3_custom_portal_settings_x_1394569_isemble">e8544335d9a11210ee36affeae609b26</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</application>
+        <file_path/>
+        <instance_id>1ac42f903b378658677f04e0b5e45ae2</instance_id>
+        <instance_name>dev284320</instance_name>
+        <name>sys_ui_section_28544335f9a11210db8681b8cf65ac26</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="28544335f9a11210db8681b8cf65ac26" sys_domain="global" table="sys_user" version="3" view="3_custom_portal_settings_x_1394569_isemble"><sys_ui_element action="INSERT_OR_UPDATE"><element>time_zone</element><position>0</position><sys_created_by>system</sys_created_by><sys_created_on>2024-10-30 15:00:13</sys_created_on><sys_id>ac544335aaa11210d9ca1bbef7ff6726</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="e8544335d9a11210ee36affeae609b26">28544335f9a11210db8681b8cf65ac26</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-10-30 15:00:13</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>system</sys_created_by><sys_created_on>2024-10-30 15:00:13</sys_created_on><sys_id>6054433527a11210b7ef95a6950aa127</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="e8544335d9a11210ee36affeae609b26">28544335f9a11210db8681b8cf65ac26</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-10-30 15:00:13</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>preferred_language</element><position>2</position><sys_created_by>system</sys_created_by><sys_created_on>2024-10-30 15:00:13</sys_created_on><sys_id>a05443351da112100f42c12518397125</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="e8544335d9a11210ee36affeae609b26">28544335f9a11210db8681b8cf65ac26</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-10-30 15:00:13</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>sys_user</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-10-30 15:00:13</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>28544335f9a11210db8681b8cf65ac26</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_user</sys_name><sys_overrides/><sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package><sys_policy/><sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope><sys_update_name>sys_ui_section_28544335f9a11210db8681b8cf65ac26</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-10-30 15:00:13</sys_updated_on><sys_user/><title>false</title><view display_value="3_custom_portal_settings_x_1394569_isemble" name="3_custom_portal_settings_x_1394569_isemble">e8544335d9a11210ee36affeae609b26</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1733027408</payload_hash>
+        <record_name>User</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-30 15:18:48</sys_created_on>
+        <sys_id>1e98877983a112108c5d91d6feaad344</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192de020afd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-30 15:18:48</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>da9887793aa11210e07e7d4a7ca78044</update_guid>
+        <update_guid_history>da9887793aa11210e07e7d4a7ca78044:1733027408</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-10-30 15:18:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>0cb1b5eb2cba412ea772cc322501bde1</sys_id>
+        <sys_metadata>28544335f9a11210db8681b8cf65ac26</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_user</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_parent display_value="Sys User">9b00c9324010121087de8045c806ff72</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_scope_delete display_value="">f058eb2433d3418e9f3068b4f03fe304</sys_scope_delete>
+        <sys_update_name>sys_ui_section_28544335f9a11210db8681b8cf65ac26</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_28544335f9a11210db8681b8cf65ac26">1e98877983a112108c5d91d6feaad344</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-10-30 15:18:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

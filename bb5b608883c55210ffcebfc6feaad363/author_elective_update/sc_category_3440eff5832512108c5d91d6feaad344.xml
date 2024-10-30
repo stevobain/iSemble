@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="DELETE">
+        <active>true</active>
+        <description/>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog/>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-30 17:02:21</sys_created_on>
+        <sys_id>3440eff5832512108c5d91d6feaad344</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>iSemble Category</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sc_category_3440eff5832512108c5d91d6feaad344</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-30 17:02:21</sys_updated_on>
+        <title>iSemble Category</title>
+    </sc_category>
+    <sys_translated_text action="DELETE" query="documentkey=3440eff5832512108c5d91d6feaad344"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</application>
+        <file_path/>
+        <instance_id>1ac42f903b378658677f04e0b5e45ae2</instance_id>
+        <instance_name>dev284320</instance_name>
+        <name>sc_category_3440eff5832512108c5d91d6feaad344</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category"><sc_category action="INSERT_OR_UPDATE"><active>true</active><description/><entitlement_script/><header_icon/><homepage_image/><homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer><icon/><image/><location/><mobile_hide_description>false</mobile_hide_description><mobile_picture/><mobile_subcategory_render_type>list</mobile_subcategory_render_type><module/><order>0</order><parent/><roles/><sc_catalog/><sys_class_name>sc_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-30 17:02:21</sys_created_on><sys_id>3440eff5832512108c5d91d6feaad344</sys_id><sys_mod_count>0</sys_mod_count><sys_name>iSemble Category</sys_name><sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package><sys_policy/><sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope><sys_update_name>sc_category_3440eff5832512108c5d91d6feaad344</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-30 17:02:21</sys_updated_on><title>iSemble Category</title></sc_category><sys_translated_text action="delete_multiple" query="documentkey=3440eff5832512108c5d91d6feaad344"/></record_update>]]></payload>
+        <payload_hash>191579713</payload_hash>
+        <record_name>iSemble Category</record_name>
+        <reverted_from/>
+        <source>0ca36054834112108c5d91d6feaad39a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-30 17:02:21</sys_created_on>
+        <sys_id>5740eff5832512108c5d91d6feaad3ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192de60d9160000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-30 17:02:21</sys_updated_on>
+        <type>Category</type>
+        <update_guid>d340a3b576251210dfa7e0a3528c62ad</update_guid>
+        <update_guid_history>d340a3b576251210dfa7e0a3528c62ad:191579713</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="iSemble Category">95826fb9832512108c5d91d6feaad3e9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-30 17:12:04</sys_created_on>
+        <sys_db_object display_value="" name="sc_category">sc_category</sys_db_object>
+        <sys_id>2ccd6428cab845bcb7fa9d1d5445c479</sys_id>
+        <sys_metadata>3440eff5832512108c5d91d6feaad344</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>iSemble Category</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_scope_delete display_value="">f058eb2433d3418e9f3068b4f03fe304</sys_scope_delete>
+        <sys_update_name>sc_category_3440eff5832512108c5d91d6feaad344</sys_update_name>
+        <sys_update_version display_value="sc_category_3440eff5832512108c5d91d6feaad344">5740eff5832512108c5d91d6feaad3ed</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-30 17:12:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

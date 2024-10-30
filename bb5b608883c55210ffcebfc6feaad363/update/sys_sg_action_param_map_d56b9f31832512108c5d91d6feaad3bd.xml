@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (All Reservations)">5d6b9f31832512108c5d91d6feaad3b6</button>
+        <item_parameter display_value="All Reservations reservation_status">596b9f31832512108c5d91d6feaad3b4</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-30 16:40:56</sys_created_on>
+        <sys_id>d56b9f31832512108c5d91d6feaad3bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>596b9f31832512108c5d91d6feaad3b4</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_d56b9f31832512108c5d91d6feaad3bd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-30 16:40:56</sys_updated_on>
+        <ui_parameter display_value="Reservation Status">d96b9f31832512108c5d91d6feaad3b9</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

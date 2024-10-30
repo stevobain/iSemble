@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="sc_req_item">active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>due_date,cat_item.picture,short_description,price,recurring_price,recurring_frequency,requested_for,quantity,number</field_list>
+        <name>My tasks requested item</name>
+        <order/>
+        <predicate_bundle display_value="My Tasks - Requested item bundle">e4540335aaa11210d59b12bea7a6b1f8</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-10-30 15:00:09</sys_created_on>
+        <sys_id>ac5403351ca112100c4b48b9cf2773f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My tasks requested item</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_ac5403351ca112100c4b48b9cf2773f7</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-10-30 15:00:09</sys_updated_on>
+        <table>sc_req_item</table>
+        <ux_template display_value="My Tasks - requested item template">ec540335a1a112101de7201a835770f9</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>
