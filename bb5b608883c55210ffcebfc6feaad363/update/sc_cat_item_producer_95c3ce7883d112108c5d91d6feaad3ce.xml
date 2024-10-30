@@ -80,8 +80,7 @@
 * Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
 * Avoid `current.setAbortAction()` and generate a separate record
 * Use `producer.var1` to access variables
-*/
-producer.redirect="ui_page.do?sys_id=6c3b1273837412108c5d91d6feaad3a8";]]></script>
+*/]]></script>
         <short_description/>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
@@ -90,14 +89,14 @@ producer.redirect="ui_page.do?sys_id=6c3b1273837412108c5d91d6feaad3a8";]]></scri
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-10-14 21:28:28</sys_created_on>
         <sys_id>95c3ce7883d112108c5d91d6feaad3ce</sys_id>
-        <sys_mod_count>307</sys_mod_count>
+        <sys_mod_count>308</sys_mod_count>
         <sys_name>Room Request w/ iSemble</sys_name>
         <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
         <sys_policy/>
         <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
         <sys_update_name>sc_cat_item_producer_95c3ce7883d112108c5d91d6feaad3ce</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-10-29 18:48:25</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-30 14:41:08</sys_updated_on>
         <table_name>x_1394569_isemble_reservation</table_name>
         <taxonomy_topic/>
         <template/>
@@ -105,7 +104,7 @@ producer.redirect="ui_page.do?sys_id=6c3b1273837412108c5d91d6feaad3a8";]]></scri
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>307</version>
+        <version>308</version>
         <view/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
