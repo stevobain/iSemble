@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_isemble_catalog</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-30 17:02:02</sys_created_on>
+        <sys_id>16302ff5832512108c5d91d6feaad38b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>iSemble Catalog View</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sys_ui_view_16302ff5832512108c5d91d6feaad38b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-30 17:02:02</sys_updated_on>
+        <title>iSemble Catalog View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

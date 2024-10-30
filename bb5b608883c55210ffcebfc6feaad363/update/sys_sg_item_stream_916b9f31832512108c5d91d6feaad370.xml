@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="All Reservations Data Item">0d6b5f31832512108c5d91d6feaad3d1</data_item>
+        <interleaved_field/>
+        <name>196b9f31832512108c5d91d6feaad35f Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-30 16:40:56</sys_created_on>
+        <sys_id>916b9f31832512108c5d91d6feaad370</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>196b9f31832512108c5d91d6feaad35f Item Stream</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sys_sg_item_stream_916b9f31832512108c5d91d6feaad370</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-30 16:40:56</sys_updated_on>
+        <table/>
+    </sys_sg_item_stream>
+</record_update>

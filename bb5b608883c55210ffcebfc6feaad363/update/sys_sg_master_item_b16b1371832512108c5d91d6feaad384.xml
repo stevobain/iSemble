@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_1394569_isemble_reservation</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Upcoming Reservations Form Screen">b96b1371832512108c5d91d6feaad381</embedded_screen>
+        <item_view/>
+        <name>Upcoming Reservations Form Screen Master Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-30 16:40:58</sys_created_on>
+        <sys_id>b16b1371832512108c5d91d6feaad384</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Upcoming Reservations Form Screen Master Item</sys_name>
+        <sys_package display_value="iSemble" source="x_1394569_isemble">bb5b608883c55210ffcebfc6feaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iSemble">bb5b608883c55210ffcebfc6feaad363</sys_scope>
+        <sys_update_name>sys_sg_master_item_b16b1371832512108c5d91d6feaad384</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-30 16:40:58</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Upcoming Reservations List Screen View Config">b56bdf31832512108c5d91d6feaad3df</view_config>
+    </sys_sg_master_item>
+</record_update>
